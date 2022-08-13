@@ -13,7 +13,7 @@ CMD ["java", "-jar", "newSpringBoot.jar"]
 
 #pull to docker hub
 #docker pull username/image_name
-#docker run -it -p 8081:8080 username/image_name
+#docker run -it -p 8081:8080 username/image_name --name {container-name}
 
 #--------------------------For My Machine ---------------------------------------------------
 
