@@ -1,0 +1,7 @@
+com\example\newspringboot\Repo\MyRepo.class
+com\example\newspringboot\NewSpringBootApplication.class
+com\example\newspringboot\model\TotalEmploy.class
+com\example\newspringboot\model\AllEmploy.class
+com\example\newspringboot\Service\MyService.class
+com\example\newspringboot\model\Employ.class
+com\example\newspringboot\Controller\MyController.class
